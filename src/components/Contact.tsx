@@ -35,7 +35,7 @@ const Contact = () => {
       icon: Linkedin,
       label: "LinkedIn",
       value: "Connect on LinkedIn",
-      href: "https://www.linkedin.com/in/sai-aditya-gontu/",
+      href: "https://www.linkedin.com/in/sai-aditya-gontu-83082b216/",
       color: "from-blue-600 to-blue-400",
     },
     {
